@@ -1,0 +1,68 @@
+url,id,prediction,actual,themse,moves,probability
+https://lichess.org/ZyuTEP3l#39,0066C,True,False,advantage discoveredAttack kingsideAttack long middlegame sacrifice,Bxd5 Bxf2+ Kxf2 Nd4+ Kg1 Nxe6,0.89
+https://lichess.org/UdZXrVA5/black#54,008lc,True,True,attraction crushing exposedKing fork long middlegame,Rg7 Qxg7+ Kxg7 Rxe7+ Qxe7 Rxe7+,0.84
+https://lichess.org/IQW9ts1W#47,00R4l,False,False,advantage defensiveMove endgame long,Rxa7 Rxa7 Rxa7 Re1+ Bf1 Bf5,0.12
+https://lichess.org/AZ4bw2mL/black#68,00kbs,False,False,advantage deflection endgame fork long,Re8 Rxf4 Rxf4 Bxg6+ Kg8 Bxe8,0.41
+https://lichess.org/U6CzZYMP#21,0122Z,False,False,advantage fork long middlegame sacrifice,Ke3 f4+ Kxe4 Bf5+ Kf3 Qh4,0.42
+https://lichess.org/pCBDwbPH#89,019gx,True,True,attraction endgame long mate mateIn3 rookEndgame sacrifice,Ka5 Ra4+ Kxa4 Ra8+ Ra7 Rxa7#,0.52
+https://lichess.org/LlFzgUtg/black#40,01VXI,False,True,attraction crushing middlegame pin veryLong,Qg4 Qh8+ Ng8 Ba3+ Re7 Bxe7+ Kxe7 Qxg7+,0.07
+https://lichess.org/14MuiCrV#67,01iLZ,True,True,attraction crushing discoveredAttack endgame long,Rc3 Rh1+ Kxh1 Bxd5+ Kh2 Rxc3,0.71
+https://lichess.org/YtQdfMJp/black#56,01xkD,True,True,attraction crushing endgame long pin sacrifice,Rac8 Rxc3 Rxc3 Bb2 Kf8 Bxc3,0.83
+https://lichess.org/AantwQbU/black#72,026QC,True,False,crushing endgame long sacrifice,Rc7 a4+ Kxb4 Qe1+ Qc3 bxc3+,0.51
+https://lichess.org/n1mQcQwR#39,02Lda,False,False,advantage discoveredAttack kingsideAttack middlegame sacrifice veryLong,Kg1 Rxe5 Qxe5 Nf3+ gxf3 Bxf2+ Kxf2 Qxe5,0.13
+https://lichess.org/qZp4t5tw/black#62,02dIM,True,True,attraction long master mate mateIn3 middlegame sacrifice,Rb8 Qg7+ Kxg7 Rh7+ Kf8 Rxf7#,0.64
+https://lichess.org/UjBV4gUi#81,030s5,False,False,advantage deflection endgame long sacrifice,Bxf5+ Rxf5+ Rxf5 Re4+ Kf3 Kxf5,0.13
+https://lichess.org/9O0b9W1J/black#46,03EPr,False,False,crushing discoveredAttack fork middlegame sacrifice veryLong,g6 Rxa4 Rxa4 Qe5 f6 Qe6+ Kg7 Bxf6+ Qxf6 Qd7+,0.14
+https://lichess.org/yqtWDmny/black#84,03JyE,True,True,advancedPawn attraction crushing endgame exposedKing long quietMove,c2 Nf7 Qxf7 exf7+ Kxf7 Qc7+,0.83
+https://lichess.org/YcsHH0gA#59,03aCz,False,False,advantage endgame fork pin veryLong,Rxd3 Rxd3 Rxd3 Qc1+ Ka2 Qxc4+ Rb3 Rb8,0.16
+https://lichess.org/XsaLNrHo/black#56,03ctM,True,True,advantage attraction endgame long sacrifice,h6 Rxe6 Kxe6 Bb3+ c4 Bxc4+,0.71
+https://lichess.org/FRbuakpM#45,03o6y,False,False,crushing exposedKing long middlegame pin,Rf3 Re8 Qxe8+ Qxe8+ Re3 Qh5+,0.12
+https://lichess.org/n4UYvYeb/black#12,03q1Y,False,False,advantage defensiveMove long opening,Qxb2 Nc4 Qb4+ c3 Qxc3+ Bd2,0.36802380952380953
+https://lichess.org/2eX4oe37/black#76,03z2J,True,True,advantage attraction deflection endgame veryLong,Bf6 Bxf6 Kxf6 g5+ Ke7 Qxe5 Qa2 Qc7+,0.86
+https://lichess.org/8DU0ym6M/black#48,04Agi,True,True,attraction crushing fork middlegame sacrifice veryLong,b5 Qa3+ Kb7 Rf7+ Qxf7 Nd6+ Kc7 Nxf7,0.72
+https://lichess.org/dP8ECnjH/black#48,04dHh,True,True,attraction crushing doubleCheck long middlegame pin sacrifice,Bd5 Re8+ Kxe8 Qe2+ Ne4 Bxb5+,0.85
+https://lichess.org/bpoBcVJk/black#52,05WJC,False,False,advantage fork long middlegame,Kd7 Rxg8 Rxg8 Qd3+ Kc7 Qxh3,0.2
+https://lichess.org/zqH7d6Yw/black#74,05roX,True,True,attraction clearance crushing endgame long pin sacrifice,g6 Qxd8+ Qxd8 Rc8 Kf8 Rxd8+,0.82
+https://lichess.org/osvRxufn/black#74,062e9,False,True,attraction discoveredAttack enPassant endgame mate mateIn4 veryLong,c4 f5+ Kh6 Be3+ g5 fxg6+ Kxg6 h5#,0.19
+https://lichess.org/yPotr1DC#37,06ZhZ,False,False,advantage exposedKing fork middlegame veryLong,Nxd4 Qh4+ Qf2 Qxd4 Qf6 Nxg2+ Ke2 Qg4+,0.14
+https://lichess.org/9mFK3bsh#57,06scF,True,True,attraction crushing endgame fork veryLong,Rxd4 Rc1+ Qxc1 Rxc1+ Kxc1 Ne2+ Kd2 Nxd4,0.87
+https://lichess.org/9oAlGSTy#39,06tpy,False,False,advantage fork long middlegame sacrifice,Kxg2 Qxf2+ Rxf2 Nxe3+ Kf3 Nxd1,0.2
+https://lichess.org/C5sP5h4e#99,06wxz,True,True,attraction crushing deflection long middlegame,Rhxg2 Rxg2 Rxg2 Ne3 Qxe3 Rxg2,0.62
+https://lichess.org/6IG0jOXT/black#54,074BS,False,False,exposedKing kingsideAttack long mate mateIn3 middlegame sacrifice,Ng6 Rxh5+ Kxg7 Qh6+ Kg8 Qh7#,0.17
+https://lichess.org/JXELMtG8#35,07N42,False,False,advantage defensiveMove discoveredAttack kingsideAttack long middlegame,Bd4 Bxh2+ Kxh2 Rxd4 Kg1 Rh4,0.23
+https://lichess.org/3NlGxgeI/black#104,07NEe,True,True,advantage attraction deflection middlegame sacrifice veryLong,Rh3 Nxf6+ gxf6 Rg4+ Kf8 Qc8+ Qe8 Rg8+ Kxg8 Qxe8+,0.59
+https://lichess.org/o6gzcNIr#51,08UuA,False,False,crushing deflection endgame exposedKing fork sacrifice veryLong,Ne4 Rd3+ Ke2 Nxe4 Kxd3 Nf2+ Ke3 Nxh1,0.24
+https://lichess.org/RMOADnWj#51,091Lf,False,False,advancedPawn advantage long middlegame promotion,Qg5 c1=Q+ Rxc1 Qxc1+ Kh2 Qxg5,0.13
+https://lichess.org/7DmlqkMs#51,09FbY,False,False,advantage fork middlegame veryLong,Rd2 Nxe4 Rxe4 Nc4 Rf2 Nxb2 Rxf8+ Rxf8,0.16
+https://lichess.org/cHLmQ7aQ/black#58,09pnA,False,True,advantage attraction discoveredAttack long middlegame sacrifice,Nb7 Bf6 Qxf6 e5+ Bf5 exf6,0.03
+https://lichess.org/hsNueFjz#33,0A9It,True,True,attraction crushing long middlegame sacrifice,g4 Rad8 gxf5 Rxd1+ Kxd1 Rd8+,0.55
+https://lichess.org/98Cl216h#65,0AMj9,True,False,crushing discoveredAttack kingsideAttack long middlegame sacrifice,b6 Qxh2+ Kxh2 Rxf3+ Kh1 Rxb3,0.81
+https://lichess.org/dnL4tuiI#85,0ANUi,True,True,attraction crushing exposedKing fork long middlegame,Rbxa5 Rxa5 Rxa5 Qe1+ Bf1 Qxa5,0.89
+https://lichess.org/Tb8liqCQ/black#68,0Acau,True,True,attraction deflection endgame fork mate mateIn5 sacrifice veryLong,Ne2 Bc2+ Kg8 Qe8+ Bf8 Bh7+ Kxh7 Qxf7+ Bg7 Qxg7#,0.61
+https://lichess.org/pWNHBQnC/black#52,0CCUd,True,True,attraction crushing long middlegame,Rd7 Rxd6+ Rxd6 Bxe5+ Ke7 Bxd6+,0.87
+https://lichess.org/T9JjI1GD#119,0CgMx,True,True,attraction crushing endgame long rookEndgame sacrifice,g3 Kh6 fxg6 f5+ Kxf5 Rf1+,0.7
+https://lichess.org/9DCvmNdd/black#42,0MLat,False,True,advantage attraction deflection kingsideAttack middlegame quietMove veryLong,exd4 Rdh1 f5 Rh8+ Kf7 Bh5+ Kf6 e5+ Kxe5 Re1+ Kd6 Qxd4+,0.04
+https://lichess.org/yeaxBsNp/black#38,0Soe5,False,True,advantage attraction deflection fork middlegame veryLong,Rxe1+ Rxe1 Bb7 Bxf6 Bxf6 Re8+ Qxe8 Nxf6+ Kf7 Nxe8,0.07
+https://lichess.org/gTJh8XpI/black#48,0dzRp,False,True,attraction crushing deflection middlegame veryLong,Bh6 Ng5+ Kg7 Rxe6 Nf6 Rxf6 Kxf6 Qxh6+,0.0
+https://lichess.org/A6qmAmax/black#52,0g5p7,False,True,attraction exposedKing fork mate mateIn5 middlegame sacrifice veryLong,bxc6 Rxc6+ Bxc6 Qa6+ Kb8 Bc7+ Kxc7 Qxc6+ Kd8 Nf7+ Ke7 Qd6+ Kxf7 Bd5+ Re6 Qxe6+ Kf8 Qf7#,0.07
+https://lichess.org/jeYyIuAL#95,0mD0O,False,True,advancedPawn attraction endgame equality veryLong,Qg3 Bxf3+ Kg1 Qxg3+ hxg3 h2+ Kxh2 Re2+ Kh3 Bg2+,0.08
+https://lichess.org/RS6A5kpO#63,17IdH,False,True,attraction crushing middlegame sacrifice veryLong,Bxe4 Rxe4 Rxe4 Rxe4 Rxe4 Bf5 Qa1 Bxe4,0.05333333333333334
+https://lichess.org/XXeHadJn/black#44,1Bdoi,False,True,advantage attraction exposedKing fork middlegame quietMove sacrifice veryLong,Qg5 Rf1 Bxh3 Qf7+ Kh8 Qxe7 Qxe7 Ng6+ Kg7 Nxe7,0.03
+https://lichess.org/kDnpwcZR/black#56,1GaEA,True,False,crushing fork middlegame veryLong,g6 Rxf8+ Kxf8 Qc5+ Kg7 Qc3+ f6 Qxh3,1.0
+https://lichess.org/1lTBjUm1/black#60,1LGYW,False,True,attraction crushing master middlegame veryLong,Bf5+ Nxf5 gxf5 Rxf5+ Kg8 Qxg7+ Kxg7 Rg1+,0.08
+https://lichess.org/bMDWPu5k/black#38,1NMha,False,True,advantage attraction fork middlegame pin veryLong,Rf5 Ne7+ Kf8 Nxf5 Qxf5 Rf1 Bf4 Qxf5+ exf5 Rxf4,0.04
+https://lichess.org/gmJWYet3/black#44,1TABW,False,True,advantage attraction discoveredAttack kingsideAttack middlegame veryLong,Qxb2 Be5 f6 Rxf5 gxf5 Rxc7 Qb1+ Kh2 Rf7 Rxf7 Kxf7 Qxf6+,0.0
+https://lichess.org/sOS2jhoJ#53,1aKac,False,True,advantage attraction middlegame pin veryLong,Bc4 Qb6+ Kc1 Rxd1+ Rxd1 Rxd1+ Kxd1 Qd6+ Bd3 c4,0.01
+https://lichess.org/cxEqxrmJ/black#56,1sRa7,False,True,attraction crushing deflection middlegame veryLong,Rg8 Qc3+ Kd7 Rb7+ Ke6 Qc8+ Kf6 Rxf7+ Kxf7 Qxf5+,0.01
+https://lichess.org/SNNz3UJ7#53,1zdgt,False,True,advantage attraction fork middlegame veryLong,Kb2 c3+ Kb3 Qa4+ Kxc3 f5 Qh4 Rc8+ Kd2 Qxc2+ Ke3 f4+ Kxf4 g5+ Qxg5+ Rxg5,0.01
+https://lichess.org/wYaUfZ2h#35,28zld,False,True,attraction capturingDefender crushing endgame fork veryLong,Qxc4 Re1+ Kf2 Rxc1 Rxc1 Qxb2+ Qe2 Qxc1,0.03
+https://lichess.org/uYobrrb2/black#52,2BgT7,False,True,attraction exposedKing mate mateIn4 middlegame pin sacrifice veryLong,Rc7 Rxd5+ exd5 Rxd5+ Rd7 Rxd7+ Kxd7 Qd6#,0.01
+https://lichess.org/zh4aP8Xc#53,2NyxJ,False,True,attraction crushing kingsideAttack middlegame quietMove veryLong,Re2 Raa1 Rf2 Rxf1+ Rxf1 Rxf1+ Kxf1 Qd1+ Kf2 Qc2+,0.05
+https://lichess.org/dkbJUUL5/black#60,2UVWa,False,True,advantage attraction endgame fork master masterVsMaster sacrifice veryLong,Rf7 Nxe6+ Kg8 Rd8+ Rxd8 Qxf7+ Kxf7 Nxd8+ Kf6 Nxc6,0.01
+https://lichess.org/pteJ9lrL#33,2ki8x,False,True,advantage attraction deflection discoveredAttack middlegame queensideAttack sacrifice veryLong,Nd5 Nxd5 exd5 Bxd4 Qxd4 Rxc2 Kxc2 Qxa2+,0.0
+https://lichess.org/DiPOEjjS#47,4mDCa,True,False,crushing discoveredAttack long middlegame sacrifice,Qe3 Rxh2+ Kxh2 Nd5+ Kg2 Nxe3+,0.92
+https://lichess.org/qipsjsnE/black#36,4nBe9,True,False,crushing discoveredAttack kingsideAttack long middlegame sacrifice,Nb2 Bxh7+ Kxh7 Nf5+ Kg8 Qh5,0.96
+https://lichess.org/t3zKsNc7#77,6JkRG,True,False,advantage discoveredAttack endgame long,Nb4 Rxe2+ Kxe2 Rd4+ Ke3 Rxb4,0.94
+https://lichess.org/qj34Z4YC/black#44,BsBxp,True,False,crushing discoveredAttack exposedKing long middlegame,e5 Qxd7+ Kxd7 Nxb5+ Ke7 Nxa3,0.96
+https://lichess.org/Ea2Qhg1A#51,ERimT,True,False,advantage discoveredAttack intermezzo long middlegame sacrifice,cxd4 Qxg2+ Kxg2 Nxd4+ Kg1 Nxf5,0.94
+https://lichess.org/dxWSikEy/black#58,I2Kic,True,False,advantage discoveredAttack long middlegame,Qf6 Qxf6+ Kxf6 Ne5+ Kg7 Nxc6,1.0
